@@ -1,0 +1,25 @@
+body {
+        background-color: black;
+        color: white;
+      }
+      button {
+        width: 60px;
+        height: 60px;
+        border-radius: 30px;
+        background-color: rgb(59, 57, 57);
+        border: none;
+        color: white;
+        font-size: 22px;
+        margin: 0;
+      }
+      .op {
+        width: 60px;
+        height: 60px;
+        background-color: rgb(255, 149, 0);
+        border: none;
+        color: white;
+        font-size: 22px;
+      }
+      .screen {
+        font-size: 25px;
+      }
