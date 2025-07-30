@@ -1,6 +1,6 @@
-# Beginner Projects – RPS & Calculator
+# Beginner Projects – RPS, Calculator & Text Adventure Game
 
-This repository contains two beginner-level web projects built using only **HTML**, **CSS**, and **JavaScript**.
+This repository contains three beginner-level web projects built using only **HTML**, **CSS**, and **JavaScript**.
 
 ## Projects
 
@@ -14,6 +14,8 @@ A simple Rock Paper Scissors game where the user plays against a computer that r
 - Autoplay option
 - Reset functionality
 
+---
+
 ### 2. Calculator
 
 A basic calculator that performs arithmetic operations using `eval()`. It stores the current expression in `localStorage` to preserve the input on reload.
@@ -22,6 +24,22 @@ A basic calculator that performs arithmetic operations using `eval()`. It stores
 - Supports +, -, *, /
 - LocalStorage-based input persistence
 - Clear and equals functionality
+
+---
+
+### 3. Text Adventure Game
+
+A browser-based text adventure RPG game where the player navigates through different locations, fights monsters, and upgrades weapons. Game state is updated live using JavaScript.
+
+**Features:**
+- Interactive UI with buttons and dynamic text
+- Combat system with weapons, health, gold, and experience
+- Multiple monsters with different difficulty levels
+- Store to buy/sell weapons and health
+- Win and lose conditions
+- Hidden Easter egg game
+
+---
 
 ## Technologies Used
 
@@ -35,6 +53,8 @@ A basic calculator that performs arithmetic operations using `eval()`. It stores
 2. Open the `.html` files in a web browser
 
 No build tools or installations are required.
+
+---
 
 ## Notes
 
